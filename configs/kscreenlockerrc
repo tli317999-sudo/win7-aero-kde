@@ -1,0 +1,6 @@
+[Greeter]
+WallpaperPlugin=org.kde.image
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file://__HOME__/.local/share/wallpapers/CyberKDE/lockscreen-corp.png
+PreviewImage=file://__HOME__/.local/share/wallpapers/CyberKDE/lockscreen-corp.png

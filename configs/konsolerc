@@ -1,0 +1,11 @@
+[Desktop Entry]
+DefaultProfile=CyberKDE.profile
+
+[General]
+ConfigVersion=1
+
+[KDE]
+widgetStyle=kvantum
+
+[UiSettings]
+ColorScheme=

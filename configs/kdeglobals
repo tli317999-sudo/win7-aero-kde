@@ -1,0 +1,155 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=250,250,250
+BackgroundNormal=240,240,240
+DecorationFocus=255,255,255
+DecorationHover=255,255,255
+ForegroundActive=255,255,255
+ForegroundInactive=140,140,140
+ForegroundLink=255,255,255
+ForegroundNegative=218,68,83
+ForegroundNeutral=198,92,0
+ForegroundNormal=0,0,0
+ForegroundPositive=39,174,96
+ForegroundVisited=128,0,128
+
+[Colors:Complementary]
+BackgroundAlternate=59,64,69
+BackgroundNormal=49,54,59
+DecorationFocus=255,255,255
+DecorationHover=255,255,255
+ForegroundActive=255,255,255
+ForegroundInactive=175,176,179
+ForegroundLink=255,255,255
+ForegroundNegative=231,76,60
+ForegroundNeutral=253,188,75
+ForegroundNormal=239,240,241
+ForegroundPositive=46,204,113
+ForegroundVisited=61,174,230
+
+[Colors:Selection]
+BackgroundAlternate=254,254,254
+BackgroundNormal=254,254,254
+DecorationFocus=255,255,255
+DecorationHover=255,255,255
+ForegroundActive=255,255,255
+ForegroundInactive=0,0,0
+ForegroundLink=255,255,255
+ForegroundNegative=176,55,69
+ForegroundNeutral=246,116,0
+ForegroundNormal=0,0,0
+ForegroundPositive=23,104,57
+ForegroundVisited=128,0,128
+
+[Colors:Tooltip]
+BackgroundAlternate=77,77,77
+BackgroundNormal=255,255,225
+DecorationFocus=255,255,255
+DecorationHover=255,255,255
+ForegroundActive=255,255,255
+ForegroundInactive=140,140,140
+ForegroundLink=255,255,255
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=0,0,0
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=247,247,247
+BackgroundNormal=255,255,255
+DecorationFocus=255,255,255
+DecorationHover=255,255,255
+ForegroundActive=255,255,255
+ForegroundInactive=140,140,140
+ForegroundLink=186,186,186
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=0,0,0
+ForegroundPositive=39,174,96
+ForegroundVisited=128,0,128
+
+[Colors:Window]
+BackgroundAlternate=227,227,227
+BackgroundNormal=240,240,240
+DecorationFocus=255,255,255
+DecorationHover=255,255,255
+ForegroundActive=255,255,255
+ForegroundInactive=140,140,140
+ForegroundLink=255,255,255
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=0,0,0
+ForegroundPositive=39,174,96
+ForegroundVisited=128,0,128
+
+[General]
+AccentColor=255,255,255
+ColorSchemeHash=66d3cfbc92419e060c6b68379c1479900832a5a9
+SoundTheme=Windows 7
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=none
+activeFont=Orbitron,10,-1,5,50,0,0,0,0,0,Medium
+fixed=JetBrainsMono Nerd Font Mono,11,-1,5,50,0,0,0,0,0,Regular
+font=Segoe UI,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+menuFont=Segoe UI,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+smallestReadableFont=Segoe UI,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+taskbarFont=DepartureMono Nerd Font,12,-1,5,50,0,0,0,0,0,Regular
+toolBarFont=Segoe UI,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+
+[Icons]
+Theme=Windows 7 Aero
+
+[KDE]
+DefaultDarkLookAndFeel=Nordic
+LookAndFeelPackage=authui7
+contrast=4
+frameContrast=0.2
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[WM]
+activeBackground=153,180,209
+activeBlend=185,209,234
+activeFont=Segoe UI,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+activeForeground=0,0,0
+inactiveBackground=191,205,219
+inactiveBlend=215,228,242
+inactiveForeground=67,78,84

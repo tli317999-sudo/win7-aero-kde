@@ -1,0 +1,13 @@
+[General]
+Version=202
+ViewPropsTimestamp=2026,10,13,16,42,10.81
+
+[KDE]
+widgetStyle=kvantum
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled

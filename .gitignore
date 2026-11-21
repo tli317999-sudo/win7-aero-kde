@@ -1,0 +1,10 @@
+# 编辑器 / 系统杂物
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# 打包产物
+*.pkg.tar.zst
+pkg/
+src/
